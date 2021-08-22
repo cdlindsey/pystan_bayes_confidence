@@ -1,4 +1,4 @@
-'''Setup file for the revpy module'''
+'''Setup file for the Bayesian Confidence module'''
 
 from setuptools import setup, find_packages
 
